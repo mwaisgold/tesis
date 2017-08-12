@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails.plugins:grails-melody-plugin:1.60.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/grails-melody-plugin/1.60.1/dea37d21ccba4e1142550ea32da254e225a04d1c/grails-melody-plugin-1.60.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/grails-melody-plugin/1.60.1/f71758e531885475472e90d81242d0656c8e391b/grails-melody-plugin-1.60.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails.plugins:mongodb:5.0.0.RC1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/mongodb/5.0.0.RC1/f37a3bb24cb32442c8ba2d68ea778c5fa5a6793/mongodb-5.0.0.RC1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/mongodb/5.0.0.RC1/48c89b93e9a6c3168099e85f0087392e9dafead5/mongodb-5.0.0.RC1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

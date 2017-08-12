@@ -1,0 +1,6 @@
+#Sun, 07 Aug 2016 18:32:56 +0200
+
+info.app.version=0.1
+info.app.name=tesis
+grails.env=development
+info.app.grailsVersion=3.1.10

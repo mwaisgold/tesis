@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jrobin:jrobin:1.5.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jrobin/jrobin/1.5.9/bd9a84484c67de930fa841f23cd6a93108b05cd0/jrobin-1.5.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jrobin/jrobin/1.5.9/c0252c3fda6e1a7236a5e0dd9cae6b34d051a5e4/jrobin-1.5.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

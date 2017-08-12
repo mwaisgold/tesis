@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails.plugins:grails-console:2.0.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/grails-console/2.0.8/a6118ed9c44897ce4aeb62ce765ce195da84f7a9/grails-console-2.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/grails-console/2.0.8/d30ac3bafad69a42d2b4a37415ec9b73df928c8f/grails-console-2.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
